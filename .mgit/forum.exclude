@@ -1,0 +1,17 @@
+*
+
+!/.mgit/
+!/.mgit/*.exclude
+!/.mgit/*.origin
+!/.mgit/*.baseurl
+!/.mgit/*.sh
+!/.mgit/*.gz
+
+!/public/
+!/public/uploads/
+!/public/uploads/**
+!/node_modules/
+!/node_modules/nodebb-plugin-*/
+!/node_modules/nodebb-plugin-*/**
+!/node_modules/nodebb-theme-luapower/
+!/node_modules/nodebb-theme-luapower/**
