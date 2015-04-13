@@ -1,11 +1,7 @@
 *
 
 !/.mgit/
-!/.mgit/*.exclude
-!/.mgit/*.origin
-!/.mgit/*.baseurl
-!/.mgit/*.sh
-!/.mgit/*.gz
+!/.mgit/*.*
 
 !/public/
 !/public/uploads/

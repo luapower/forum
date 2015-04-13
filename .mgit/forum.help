@@ -1,0 +1,5 @@
+FORUM EXTENSIONS:
+
+    backup        compress/encrypt redis backup & push all files
+    restore       decrypt/decompres redis backup
+    REPO clear-history clear entire git history
