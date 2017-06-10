@@ -13,3 +13,4 @@
 !/node_modules/nodebb-plugin-*/**
 !/node_modules/nodebb-theme-luapower/
 !/node_modules/nodebb-theme-luapower/**
+!/config.prod.json

@@ -1,0 +1,11 @@
+{
+    "url": "https://luapower.com/forum",
+    "secret": "paste from ./mgit/secret",
+    "database": "redis",
+    "redis": {
+        "host": "127.0.0.1",
+        "port": "6379",
+        "password": "",
+        "database": "0"
+    }
+}
