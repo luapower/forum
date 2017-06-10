@@ -2,6 +2,7 @@
 
 !/.mgit/
 !/.mgit/*.*
+/.mgit/forum.origin
 /.mgit/nodebb-copy.exclude
 
 !/public/
